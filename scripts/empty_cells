@@ -1,0 +1,6 @@
+﻿#!/usr/bin/env bash
+# empty_cells — count blank cells per column in a delimited text file
+# Usage: empty_cells FILE [DELIM]      (DELIM defaults to ';')
+set -euo pipefail
+
+echo "Skeleton OK — real logic comes next"
