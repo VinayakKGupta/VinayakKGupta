@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @VinayakKGupta
-- 👀 I’m interested in learning python , machine learning
 - 🌱 I’m currently a student of Masters in data science 
 - 💞️ I’m looking to collaborate on data science industrial projects
 - 📫 Reach me at guptavinayak100@gmail.com
